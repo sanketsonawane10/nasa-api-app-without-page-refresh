@@ -2,6 +2,8 @@
 
 # Nasa Api App -> without page refresh
 
+**In this app -> you will get all the data without page refresh -> it will reduce loading time**
+
 
 **(1)First Clone the project by this command** 
 
