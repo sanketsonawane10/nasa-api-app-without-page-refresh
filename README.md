@@ -5,7 +5,7 @@
 
 **(1)First Clone the project by this command** 
 
-  git clone https://github.com/sanketsonawane10/nasa-api-app.git 
+  git clone https://github.com/sanketsonawane10/nasa-api-app-without-page-refresh.git
 
 
 **(2) Open Terminal and install all dependencies required by following command** 
